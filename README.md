@@ -1,5 +1,5 @@
 ### EX NO: 05
-### DATE: 29.04.2022
+### DATE: 18.04.2022
 # <p align="center"> SIGMOID ACTIVATION FUNCTION</P>
   
 ## Aim:
@@ -36,8 +36,8 @@
 ```
 /*
 Program to implement the sigmoid activation function in a feed forward ANN.
-Developed by: R ARUNRAJ
-RegisterNumber:  212220230004
+Developed by   : R ARUNRAJ
+RegisterNumber :  212220230004
 */
 ```
 ```python
@@ -92,7 +92,14 @@ if __name__=="__main__":
 ```
 
 ## Output:
-![output](https://user-images.githubusercontent.com/75235747/169422930-454a8ed0-17b9-4ac3-8c3a-e2e850ed01e5.JPG)
+![Capture8](https://user-images.githubusercontent.com/75234588/169307589-4aae089e-9fd6-431d-af59-50d85ad867bf.PNG)
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Result:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
